@@ -6,4 +6,4 @@
 - 🗓️ Generación de itinerarios en consola
 
 ## Autor(es)
-- AMFG&P [@usuario](https://github.com/AmeghanFG) 
+- AMFG&P [@AmeghanFG](https://github.com/AmeghanFG) 

@@ -7,3 +7,6 @@
 
 ## Autor(es)
 - AMFG&P [@AmeghanFG](https://github.com/AmeghanFG) 
+  
+## Modulo 4
+Lógica y Algoritmos

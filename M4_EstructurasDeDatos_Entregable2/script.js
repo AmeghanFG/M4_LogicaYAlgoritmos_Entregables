@@ -1,5 +1,5 @@
 let listaDeCompras = [];  // Lista vacía
-
+alert('Hola, si funciono');
 // Función para agregar un producto
 function agregarProducto(producto) {
   // TODO: Verifica si el producto ya está en la lista antes de agregarlo

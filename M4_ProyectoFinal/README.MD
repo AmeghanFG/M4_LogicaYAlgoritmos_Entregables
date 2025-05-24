@@ -14,8 +14,8 @@
 - Eliminar una nota: Borra una nota específica según su título.
 
 ## Autor(es)
-- AMFG&P [@AmeghanFG]([text] https://github.com/AmeghanFG) 
-- Pavlytus [@Pavlytus ([text](https://github.com/Pavlytus))]
+- AMFG&P [@AmeghanFG](https://github.com/AmeghanFG) 
+- Pavlytus [@Pavlytus](https://github.com/Pavlytus)
 
 ## Modulo 4
 Lógica y Algoritmos

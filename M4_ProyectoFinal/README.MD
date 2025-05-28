@@ -16,6 +16,7 @@
 ## Autor(es)
 - AMFG&P [@AmeghanFG](https://github.com/AmeghanFG) 
 - Pavlytus [@Pavlytus](https://github.com/Pavlytus)
+- Vaniacampos [@Vaniacampos](https://github.com/Vaniacampos)
 
 ## Modulo 4
 Lógica y Algoritmos

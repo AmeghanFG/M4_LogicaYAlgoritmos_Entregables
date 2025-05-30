@@ -1,10 +1,10 @@
-const { clear } = require("console");
+const { clear } = require("console"); // Funciona con el clear() y se usa para limpiar la consola en entornos de Node.js, eliminando el contenido que se ha impreso anteriormente.desaparecerá.
 const fs = require("fs");
 
 // Ruta del archivo de notas
 const filePath = "./notas.json";
 
-/**
+/*
  * Agrega una nueva nota al archivo.
  * @param {string} titulo - El título de la nota.
  * @param {string} contenido - El contenido de la nota.
@@ -85,9 +85,17 @@ function eliminarNota(titulo) {
   }
 }
 
+clear();
+
 // Ejecución de ejemplo
 agregarNota("Compras", "Comprar leche y pan.");
 agregarNota("Pendientes", "Comprar leche y pan.");
 listarNotas();
 eliminarNota("Compras");
 listarNotas();
+
+// * busqueda binaria 
+// log2(1000) es para calcular la iteraciones que se ocupan en busqueda binaria para advinar un numero del ejercicio Tiempo es O(n*log(n)) y espacio O(n) 
+
+// * Grafica de complejidades 
+// * Divide y venceras es muuuuuy dado en entrevistas de trabajo
